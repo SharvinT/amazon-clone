@@ -44,7 +44,7 @@ function App() {
           <Route path="/login">
             <Login />
           </Route>
-          {/*Default route page*/}
+          {/*Default route page */}
           <Route path="/">
             <Header />
             <Home />
